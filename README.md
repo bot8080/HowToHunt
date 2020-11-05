@@ -1,6 +1,6 @@
 # HowToHunt
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Some Tutorials and Things to Do while Hunting Particular Vulnerability. 
 
@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/remonsec"><img src="https://avatars2.githubusercontent.com/u/54717234?v=4" width="100px;" alt=""/><br /><sub><b>Mehedi Hasan Remon</b></sub></a><br /><a href="#tutorial-remonsec" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://www.theinfosecguy.me"><img src="https://avatars3.githubusercontent.com/u/33570148?v=4" width="100px;" alt=""/><br /><sub><b>Keshav Malik</b></sub></a><br /><a href="#tutorial-theinfosecguy" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://0xd3vil.github.io/"><img src="https://avatars3.githubusercontent.com/u/32324065?v=4" width="100px;" alt=""/><br /><sub><b>Vivek Kumar Yadav</b></sub></a><br /><a href="#tutorial-0xd3vil" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://smhtahsin33.me"><img src="https://avatars0.githubusercontent.com/u/60981314?v=4" width="100px;" alt=""/><br /><sub><b>smhtahsin33</b></sub></a><br /><a href="#tutorial-SMHTahsin33" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://twitter.com/smhtahsin33"><img src="https://avatars0.githubusercontent.com/u/60981314?v=4" width="100px;" alt=""/><br /><sub><b>Syed Mushfik Hasan Tahsin</b></sub></a><br /><a href="#tutorial-SMHTahsin33" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Virdoexhunter"><img src="https://avatars1.githubusercontent.com/u/68891432?v=4" width="100px;" alt=""/><br /><sub><b>Deepak Dhiman</b></sub></a><br /><a href="#tutorial-Virdoexhunter" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/maverickNerd"><img src="https://avatars3.githubusercontent.com/u/49231687?v=4" width="100px;" alt=""/><br /><sub><b>maverickNerd</b></sub></a><br /><a href="#tutorial-maverickNerd" title="Tutorials">✅</a></td>
   </tr>
@@ -55,6 +55,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ashhadali10"><img src="https://avatars1.githubusercontent.com/u/54775497?v=4" width="100px;" alt=""/><br /><sub><b>ashhadali10</b></sub></a><br /><a href="#tutorial-ashhadali10" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/Nav-Prak"><img src="https://avatars1.githubusercontent.com/u/54226343?v=4" width="100px;" alt=""/><br /><sub><b>Nav-Prak</b></sub></a><br /><a href="#tutorial-Nav-Prak" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://github.com/CXVVMVII"><img src="https://avatars0.githubusercontent.com/u/35371691?v=4" width="100px;" alt=""/><br /><sub><b>NoBodysSafe</b></sub></a><br /><a href="#tutorial-CXVVMVII" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/bolli95"><img src="https://avatars3.githubusercontent.com/u/7793324?v=4" width="100px;" alt=""/><br /><sub><b>Max Boll</b></sub></a><br /><a href="#tutorial-bolli95" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/Yashrk078"><img src="https://avatars2.githubusercontent.com/u/55628921?v=4" width="100px;" alt=""/><br /><sub><b>Yash K</b></sub></a><br /><a href="#tutorial-Yashrk078" title="Tutorials">✅</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/febinrev"><img src="https://avatars2.githubusercontent.com/u/52229330?v=4" width="100px;" alt=""/><br /><sub><b>febinrev</b></sub></a><br /><a href="#tutorial-febinrev" title="Tutorials">✅</a></td>
+    <td align="center"><a href="http://fatinsourav.github.io"><img src="https://avatars3.githubusercontent.com/u/15983667?v=4" width="100px;" alt=""/><br /><sub><b>fatinsourav</b></sub></a><br /><a href="#tutorial-fatinsourav" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
